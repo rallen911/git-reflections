@@ -12,3 +12,6 @@ How is the staging area different from the working directory and the repository?
 		The staging area allows you to take a snapshot of a file but continue working on it
 		until you're ready to commit.
 		
+How can you use the staging area to make sure you have one commit per logical change?
+		As you finish a logical change you can add it to the staging area.
+		
