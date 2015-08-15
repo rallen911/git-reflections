@@ -15,3 +15,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 		As you finish a logical change you can add it to the staging area.
 		
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+		If you're working on a new feature or doing significant rework and don't want to 
+		roadblock work on the tip.  Branches help by allowing you to work along side the tip work
+		before merging the branch back to the tip.
