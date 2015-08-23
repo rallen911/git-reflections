@@ -16,3 +16,6 @@ When would you use one instead of another?
 		I would use a clone to make a complete copy of a repository on my computer.
 		I would use a fork to copy someone else's repository that I don't have change access to.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+		You can know how different your local master is from the origin master.
+		
