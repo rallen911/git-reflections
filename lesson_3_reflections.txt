@@ -5,3 +5,14 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 		The remote repository may have other people working in it and committing changes
 		that you don't necessarily want.
+		
+Describe the differences between forks, clones, and branches.
+		A branch is a particular line of development within a repository.
+		A clone is a complete copy of a repository made using "git clone".
+		A fork is a complete copy of a repository made using GitHub.
+
+When would you use one instead of another?
+		I would use a branch for developing something within a repository.
+		I would use a clone to make a complete copy of a repository on my computer.
+		I would use a fork to copy someone else's repository that I don't have change access to.
+
