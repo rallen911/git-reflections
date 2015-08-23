@@ -25,3 +25,10 @@ How do the diagrams help you visualize the branch structure?
 		Diagrams can show you the relationship between branches and what might be contained 
 		in those branches.  It can also help you understand what a message from git is telling
 		you.
+
+What is the result of merging two branches together?
+		The resulting branch has a combination of added and removed lines that reflects
+		what was done in each individual branch.
+		
+Why do we represent it in the diagram the way we do?
+		The arrows show the source of what was merged.
