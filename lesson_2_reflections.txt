@@ -20,3 +20,8 @@ How would branches help?
 		If you're working on a new feature or doing significant rework and don't want to 
 		roadblock work on the tip.  Branches help by allowing you to work along side the tip work
 		before merging the branch back to the tip.
+		
+How do the diagrams help you visualize the branch structure?
+		Diagrams can show you the relationship between branches and what might be contained 
+		in those branches.  It can also help you understand what a message from git is telling
+		you.
