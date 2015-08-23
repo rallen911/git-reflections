@@ -32,3 +32,9 @@ What is the result of merging two branches together?
 		
 Why do we represent it in the diagram the way we do?
 		The arrows show the source of what was merged.
+		
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+		The pros are that you don't have to look at all of the changes
+		The con is that you may not be aware of what the changes are unless you diff them
+		before merging.
+
